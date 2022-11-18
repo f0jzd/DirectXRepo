@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\cpp_assignments\Cpp_Assignments\repos\Direct3D HLSL Sequel\x64\Debug\Direct3D HLSL Sequel.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\cpp_assignments\Cpp_Assignments\repos\Direct3D HLSL Sequel\x64\Debug\ChromaticAbberation.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

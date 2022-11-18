@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\lolsx\source\repos\DirectX3D 3D Input and Movement\DirectX3D 3D Input and Movement\Game.cpp(62,11): warning C4189: 'elapsedTime': local variable is initialized but not referenced
+C:\Users\lolsx\source\repos\DirectX3D 3D Input and Movement\DirectX3D 3D Input and Movement\Game.cpp(166,10): warning C4189: 'context': local variable is initialized but not referenced
+  DirectX3D 3D Input and Movement.vcxproj -> C:\Users\lolsx\source\repos\DirectX3D 3D Input and Movement\x64\Debug\DirectX3D 3D Input and Movement.exe

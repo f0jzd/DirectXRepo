@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Direct3D_Win32_App", "Direct3D_Win32_App\Direct3D_Win32_App.vcxproj", "{E9C66590-FA69-453F-9917-26544E3D86CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C66590-FA69-453F-9917-26544E3D86CC}.Debug|x64.ActiveCfg = Debug|x64
+		{E9C66590-FA69-453F-9917-26544E3D86CC}.Debug|x64.Build.0 = Debug|x64
+		{E9C66590-FA69-453F-9917-26544E3D86CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{E9C66590-FA69-453F-9917-26544E3D86CC}.Debug|x86.Build.0 = Debug|Win32
+		{E9C66590-FA69-453F-9917-26544E3D86CC}.Release|x64.ActiveCfg = Release|x64
+		{E9C66590-FA69-453F-9917-26544E3D86CC}.Release|x64.Build.0 = Release|x64
+		{E9C66590-FA69-453F-9917-26544E3D86CC}.Release|x86.ActiveCfg = Release|Win32
+		{E9C66590-FA69-453F-9917-26544E3D86CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D175BF68-BD7B-4850-8ACF-C63F9971DA7E}
+	EndGlobalSection
+EndGlobal

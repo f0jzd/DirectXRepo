@@ -1,0 +1,3 @@
+﻿  Game.cpp
+D:\cpp_assignments\Cpp_Assignments\repos\Direct3D HLSL Sequel\Direct3D HLSL Sequel\Game.cpp(104,10): warning C4189: 'context': local variable is initialized but not referenced
+  Direct3D HLSL Sequel.vcxproj -> D:\cpp_assignments\Cpp_Assignments\repos\Direct3D HLSL Sequel\x64\Debug\Direct3D HLSL Sequel.exe

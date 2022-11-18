@@ -1,0 +1,1 @@
+D:\cpp_assignments\Cpp_Assignments\repos\Direct3D HLSL Sequel\Direct3D HLSL Sequel\x64\Debug\Direct3D HLSL Sequel.vcxproj.CopyComplete
